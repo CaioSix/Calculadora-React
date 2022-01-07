@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CaioSix/Calculadora-React/static/css/main.49c6f286.css",
+    "main.js": "/CaioSix/Calculadora-React/static/js/main.39226442.js",
+    "static/js/787.91805078.chunk.js": "/CaioSix/Calculadora-React/static/js/787.91805078.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/CaioSix/Calculadora-React/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
+    "index.html": "/CaioSix/Calculadora-React/index.html",
+    "main.49c6f286.css.map": "/CaioSix/Calculadora-React/static/css/main.49c6f286.css.map",
+    "main.39226442.js.map": "/CaioSix/Calculadora-React/static/js/main.39226442.js.map",
+    "787.91805078.chunk.js.map": "/CaioSix/Calculadora-React/static/js/787.91805078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c6f286.css",
+    "static/js/main.39226442.js"
+  ]
+}

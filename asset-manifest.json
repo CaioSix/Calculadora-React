@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CaioSix/Calculadora-React/static/css/main.49c6f286.css",
-    "main.js": "/CaioSix/Calculadora-React/static/js/main.39226442.js",
-    "static/js/787.91805078.chunk.js": "/CaioSix/Calculadora-React/static/js/787.91805078.chunk.js",
-    "static/media/RobotoMono-Thin.ttf": "/CaioSix/Calculadora-React/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
-    "index.html": "/CaioSix/Calculadora-React/index.html",
-    "main.49c6f286.css.map": "/CaioSix/Calculadora-React/static/css/main.49c6f286.css.map",
-    "main.39226442.js.map": "/CaioSix/Calculadora-React/static/js/main.39226442.js.map",
-    "787.91805078.chunk.js.map": "/CaioSix/Calculadora-React/static/js/787.91805078.chunk.js.map"
+    "main.css": "/Calculadora-React/static/css/main.aaccdf4f.css",
+    "main.js": "/Calculadora-React/static/js/main.b707057b.js",
+    "static/js/787.91805078.chunk.js": "/Calculadora-React/static/js/787.91805078.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/Calculadora-React/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
+    "index.html": "/Calculadora-React/index.html",
+    "main.aaccdf4f.css.map": "/Calculadora-React/static/css/main.aaccdf4f.css.map",
+    "main.b707057b.js.map": "/Calculadora-React/static/js/main.b707057b.js.map",
+    "787.91805078.chunk.js.map": "/Calculadora-React/static/js/787.91805078.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49c6f286.css",
-    "static/js/main.39226442.js"
+    "static/css/main.aaccdf4f.css",
+    "static/js/main.b707057b.js"
   ]
 }
